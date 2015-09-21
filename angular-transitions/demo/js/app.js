@@ -11,8 +11,8 @@ angular.module('angular-transitions', ['ui.select2', 'ui.router'])
 .controller('MainCtrl', function ($scope, $state, Stylesheet, CSSParser) {
   'use strict';
   var pageStyleMap = {
-      'view': ['http://localhost:8000/css/view/1.1.5/animations.css', 'http://localhost:8000/css/view/1.2.0/animations.css'],
-      'repeat': ['http://localhost:8000/css/repeat/1.1.5/animations.css', 'http://localhost:8000/css/repeat/1.2.0/animations.css']
+      'view': ['css/view/1.1.5/animations.css', 'http://localhost:8000/css/view/1.2.0/animations.css'],
+      'repeat': ['css/repeat/1.1.5/animations.css', 'http://localhost:8000/css/repeat/1.2.0/animations.css']
     },
     loaded = [false, false];
 
