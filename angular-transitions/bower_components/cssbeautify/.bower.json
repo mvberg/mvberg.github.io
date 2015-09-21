@@ -1,0 +1,13 @@
+{
+  "name": "cssbeautify",
+  "_cacheHeaders": {
+    "ETag": "\"b4ae09619034f133effb93545c380b1e803cc199\"",
+    "Content-Length": "15086",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:b4ae09619",
+  "main": "index.js",
+  "_source": "https://raw.github.com/senchalabs/cssbeautify/master/cssbeautify.js",
+  "_target": "*",
+  "_originalSource": "https://raw.github.com/senchalabs/cssbeautify/master/cssbeautify.js"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "angularjs",
+  "_cacheHeaders": {
+    "Last-Modified": "Wed, 22 May 2013 18:21:58 GMT",
+    "Content-Type": "text/javascript; charset=UTF-8"
+  },
+  "main": "index.js",
+  "_source": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js",
+  "_target": "*",
+  "_originalSource": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "css-parser",
+  "_cacheHeaders": {
+    "ETag": "\"77//trunk/cssParser.js\"",
+    "Last-Modified": "Thu, 25 Jul 2013 10:46:53 GMT",
+    "Content-Length": "175686",
+    "Content-Type": "text/plain"
+  },
+  "_release": "e-tag:77//trunk",
+  "main": "index.js",
+  "_source": "http://sources.disruptive-innovations.com/jscssp/trunk/cssParser.js",
+  "_target": "*",
+  "_originalSource": "http://sources.disruptive-innovations.com/jscssp/trunk/cssParser.js"
+}
