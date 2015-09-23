@@ -1,0 +1,21 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mvberg/mvberg.github.io",
+  "authors": [
+    "mvberg <mvberg@gmail.com>"
+  ],
+  "description": "Sandbox",
+  "license": "PRV",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "modernizer": "~2.8.2"
+  }
+}
